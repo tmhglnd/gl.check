@@ -2,6 +2,8 @@
 
 A small abstraction that checks which GL engine is currently used when opening a patcher in MaxJitter (gl2/gl3) and prompts with the question to switch to the other engine if necessary.
 
+![](media/screenshot2.png)
+
 ## Support my projects
 
 **Consider to [name a fair price](http://gumroad.com/tmhglnd)**
@@ -18,15 +20,11 @@ A small abstraction that checks which GL engine is currently used when opening a
 
 - Transform patcher to bpatcher shows a `[umenu]` object that can be used as an interface to switch engines
 
-### When using GL3 in a patcher
-
-![](media/screenshot2.png)
-
-### When using GL2 in a patcher
+### Using as object with GL2/GL3 in a patcher
 
 ![](media/screenshot1.png)
 
-### Use as bpatcher for UI
+### Using as a bpatcher
 
 ![](media/screenshot4.png)
 
