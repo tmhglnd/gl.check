@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 500.0, 128.0, 736.0, 697.0 ],
+		"rect" : [ 107.0, 108.0, 736.0, 697.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -45,7 +45,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 465.0, 135.0, 203.0, 221.0 ],
+					"patching_rect" : [ 465.0, 135.0, 207.0, 221.0 ],
 					"text" : "arguments\n- > engine to check for and ask to change\n\n- If patch uses gl3, fill in gl3 as argument\n- when engine is set to gl2, and this patch is opened, a prompt will show that asks to change the engine. After clicking OK you have to confirm the Max restart as well.\n\nbpatcher:\nPatcher can also be used as bpatcher which shows the umenu as an interface to switch engines"
 				}
 
